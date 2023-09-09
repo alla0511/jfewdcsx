@@ -19,7 +19,7 @@ header img {
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
     mix-blend-mode: darken;
 
-a {
+}a {
     text-decoration: none;
     background-color: navy;
     border-radius: 20px;
@@ -43,4 +43,3 @@ a:hover::before {
     margin-right: 10px;
     opacity: 1;
 }
-
